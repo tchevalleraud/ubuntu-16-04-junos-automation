@@ -1,4 +1,4 @@
-[![Banner](./docs/img/banner.png)](https://github.com/tchevalleraud/ubuntu-16-04-junos-automation)
+[![Banner](https://user-images.githubusercontent.com/37927824/78812840-52f07100-79cc-11ea-9781-2dbd84851a55.png)](https://github.com/tchevalleraud/ubuntu-16-04-junos-automation)
 
 [![DockerBuild](https://img.shields.io/docker/build/tchevalleraud/ubuntu-16-04-junos-automation)](test) [![DockerVersion](https://img.shields.io/docker/v/tchevalleraud/ubuntu-16-04-junos-automation/master)](test) [![DockerImageSize](https://img.shields.io/docker/image-size/tchevalleraud/ubuntu-16-04-junos-automation/latest)](test)
 
